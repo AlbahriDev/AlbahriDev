@@ -3,9 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0D9488&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Al-Hussein+Al-Bahri;Frontend+%26+Backend+Developer;Flutter+Developer;React+%7C+Next.js+%7C+TypeScript" alt="Typing SVG" />
 </h1>
 
-<!-- Profile Views -->
+<!-- Profile Views + Open to Work -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlbahriDev&label=Profile%20Views&color=0D9488&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge&logo=github" alt="Open to Work" />
 </p>
 
 ---
@@ -93,6 +94,44 @@
 
 ---
 
+## 💼 Experience:
+**Frontend / Full-Stack Engineer** | N'dex Lab (Algeria / Remote) | Apr 2026 - Present
+- Accelerated web application rendering and client-side page load speed by 20% by optimizing React component architecture and frontend data sync pipelines.
+- Engineered an automated React ID/Card Generation platform with real-time state synchronization, enabling 1,000+ active users to issue digital identity cards instantly.
+- Implemented client-side route protection and JWT-based authentication flows, reducing unauthorized access vulnerabilities by 35%.
+
+**React / Software Engineer** | Tico Arab Company (Morocco / Remote) | Sep 2025 - Mar 2026
+- Cut administrative onboarding processing time by 40% by building a centralized Employee Portal using React.js, TypeScript, and structured state management.
+- Developed asynchronous data filtering and document validation UI modules using React custom hooks and TypeScript to ensure precise data rendering.
+- Maintained and integrated Node.js REST APIs, resolving 50+ bugs to ensure seamless frontend-backend communication.
+
+**Software Developer (Frontend & Backend)** | OUTPUT Team (Sana'a, Yemen) | Jan 2025 - Aug 2025
+- Boosted user session engagement by constructing mobile-first, accessible web interfaces utilizing Next.js, React, and automated UI behavior testing.
+- Engineered a WhatsApp API verification gateway for OTP authentication, raising credential recovery rates to 95%.
+- Optimized MySQL database queries and indexing, cutting data lookup latency by 25%.
+
+---
+
+## 🚀 Projects:
+**Student Lectures Educational Web Platform** | React.js, Node.js, MySQL / Netlify
+- Built an interactive React web portal for university students to categorize, search, and access academic coursework and lectures.
+
+**Personal Developer Portfolio Website** | Next.js, React.js, TypeScript, Tailwind CSS / Netlify
+- Designed a responsive portfolio featuring component-driven design systems, interactive project demos, dark mode toggle, and seamless deployment on Netlify.
+
+**Cross-Platform E-Commerce Mobile App** | Flutter, REST API, SQLite, Realm DB
+- Developed a full-featured mobile app with Flutter, implementing client-side caching (SQLite/Realm DB) and dynamic state management.
+
+**Photo Studio Management System (Graduation Project)** | Flutter, Node.js, MySQL
+- Built a cross-platform scheduling and booking app using Flutter with automated calendar integration.
+
+---
+
+## 🎓 Education:
+**Diploma in Computer Programming** | Community College, Sana'a, Yemen
+
+---
+
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlbahriDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=0D9488&icon_color=0D9488" height="180" />
@@ -129,15 +168,6 @@
 ## 💬 Dev Quote:
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
----
-
-## 🎵 Spotify Now Playing:
-<p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=false&bar_color=0D9488&bar_color_cover=false" />
-  </a>
 </p>
 
 ---
