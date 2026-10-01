@@ -29,12 +29,8 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK - ONLY YOUR REAL SKILLS -->
+<!-- TECH STACK -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <h3>⚡ Tech Stack</h3>
-</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,next,ts,js,html,css,tailwind,redux,flutter,dart,nodejs,express,dotnet,py,django,flask,mysql,firebase,sqlite,netlify,vercel,docker,git,github&theme=dark&perline=12" />
@@ -45,10 +41,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- GITHUB STATS -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlbahriDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=0D9488&icon_color=0D9488&text_color=FFFFFF" height="170" />
@@ -66,10 +58,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-</div>
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AlbahriDev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
 
@@ -80,10 +68,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <h3>📈 Activity Graph</h3>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlbahriDev&theme=react-dark&bg_color=0D1117&color=0D9488&line=0D9488&point=FFFFFF&hide_border=true&area=true" />
 </div>
 
@@ -92,10 +76,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- SNAKE ANIMATION -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <h3>🐍 Contribution Snake</h3>
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/AlbahriDev/AlbahriDev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
