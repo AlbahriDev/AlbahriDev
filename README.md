@@ -1,35 +1,306 @@
-# 💫 About Me:
-🔭 أعمل حالياً على: تطوير واجهات React وتحسين الأداء.<br><br>👯 أبحث عن تعاون في: مشاريع Next.js و TypeScript.<br><br>🤝 أبحث عن مساعدة في: تحسين CI/CD واختبارات الواجهة.<br><br>🌱 أتعلم حالياً: تحسين أداء التطبيقات و DevOps.<br><br>💬 اسألني عن: React, Next.js, Flutter, Node.js.<br><br>⚡ حقيقة ممتعة: أحب بناء واجهات مستخدم سريعة وسلسة.
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                               HEADER SECTION                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alhussein-albahri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/h.u.s.7.s) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Al-Hussein.Mohammed.Al-Bahri) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Al-Hussein_Al-Bahri) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhrwrrhsyn@gmail.com)
+<div align="center">
 
-## 🗣️ Languages:
-![Arabic](https://img.shields.io/badge/Arabic-Native-green?style=for-the-badge) ![English](https://img.shields.io/badge/English-Professional-blue?style=for-the-badge)
+  <!-- Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:4f46e5&height=220&section=header&text=Al-Hussein%20Al-Bahri&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20&%20AI%20Enthusiast&descSize=16&descAlignY=55&animation=fadeIn" width="100%" alt="Header Wave"/>
 
-# 💻 Tech Stack:
+  <!-- Typing SVG Animation -->
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full-Stack+Web+%26+Mobile+Engineer;React+%26+Next.js+Specialist;Flutter+%26+TypeScript+Developer;Building+Enterprise-Grade+Solutions" alt="Typing SVG"/>
+  </p>
 
-### Frontend Development:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+  <!-- Academic, Location & Status Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/🎓_Computer_Programming_Student-Sana'a_Community_College-7C3AED?style=for-the-badge&logoColor=white" alt="Academic Badge"/>
+    <img src="https://img.shields.io/badge/📍_Sana'a,_Yemen-Available_for_Global_Work-4F46E5?style=for-the-badge&logoColor=white" alt="Location Badge"/>
+  </p>
 
-### Mobile Development:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
+  <!-- Social & Portfolio Buttons -->
+  <p>
+    <a href="https://linkedin.com/in/alhussein-albahri" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"/>
+    </a>
+    <a href="mailto:bhrwrrhsyn@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button"/>
+    </a>
+    <a href="https://github.com/AlbahriDev" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button"/>
+    </a>
+  </p>
 
-### Backend & APIs:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+  <!-- GitHub Live Stats Badges -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=AlbahriDev&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/AlbahriDev?color=4f46e5&style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+    <img src="https://img.shields.io/github/stars/AlbahriDev?color=7c3aed&style=for-the-badge&logo=github&label=Total+Stars" alt="Stars"/>
+  </p>
 
-### Databases & Cloud:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
-### DevOps & Tools:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-0052CC?style=for-the-badge&logo=githubactions&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AlbahriDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=AlbahriDev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AlbahriDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=AlbahriDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                                ABOUT SECTION                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## ⚡ About Me
+
+<div align="center">
+
+> **"Building fast, scalable, and seamless digital user experiences with clean code and robust architectures."**
+
+</div>
+
+* 🔭 **أعمل حالياً على:** تطوير واجهات React وتحسين الأداء.
+* 👯 **أبحث عن تعاون في:** مشاريع Next.js و TypeScript.
+* 🤝 **أبحث عن مساعدة في:** تحسين CI/CD واختبارات الواجهة.
+* 🌱 **أتعلم حالياً:** تحسين أداء التطبيقات و DevOps.
+* 💬 **اسألني عن:** React, Next.js, Flutter, Node.js.
+* ⚡ **حقيقة ممتعة:** أحب بناء واجهات مستخدم سريعة وسلسة.
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                              TECH STACK SECTION                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux" alt="Frontend"/>
+</p>
+
+### Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,sqlite" alt="Mobile"/>
+  <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" alt="Realm"/>
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,python,django,fastapi,flask,mysql,firebase" alt="Backend & DB"/>
+</p>
+
+### Cloud, DevOps & Tooling
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,render" alt="DevOps & Tools"/>
+</p>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                           FEATURED PROJECTS SECTION                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## 🚀 Featured Projects
+
+<details>
+  <summary><b>🛡️ GranadX Family - Care Pro (Graduation Project)</b></summary>
+  <br>
+  <p>منظومة رقمية متكاملة لرعاية العائلة وإدارة المتابعة الصحية عبر منصات متعددة.</p>
+  
+  | Metric | Specification |
+  | :--- | :--- |
+  | **Stack** | Flutter, Dart, Supabase, Node.js |
+  | **Scale** | Multi-user cross-platform architecture |
+  | **Performance** | Optimized real-time data synchronization |
+  | **Security** | End-to-end encrypted user authentication |
+  | **Impact** | Streamlined remote family healthcare management |
+
+  <p>🔗 <b>Repository:</b> <a href="https://github.com/AlbahriDev">View Source Code</a></p>
+</details>
+
+<details>
+  <summary><b>🌱 Smart Environmental Safety & Monitoring Sentinel</b></summary>
+  <br>
+  <p>نظام ذكي مدمج للمراقبة والحماية البيئية يعتمد على إنترنت الأشياء (IoT) والمعالجة اللحظية.</p>
+  
+  | Metric | Specification |
+  | :--- | :--- |
+  | **Stack** | C++, ESP32, Python, Embedded Web Server |
+  | **Scale** | Hardware-software integrated node |
+  | **Performance** | Low-latency sensor polling & response |
+  | **Security** | Isolated local network command execution |
+  | **Impact** | Proactive hazard detection and automated logging |
+
+  <p>🔗 <b>Repository:</b> <a href="https://github.com/AlbahriDev">View Source Code</a></p>
+</details>
+
+<details>
+  <summary><b>📚 Course Management System (CMS)</b></summary>
+  <br>
+  لإدارة الدورات التدريبية، الطلاب، والمساقات الأكاديمية بكفاءة عالية.
+  
+  | Metric | Specification |
+  | :--- | :--- |
+  | **Stack** | C#, ASP.NET Web Forms, SQL Server |
+  | **Scale** | Relational enterprise database schema |
+  | **Performance** | Indexed high-speed query execution |
+  | **Security** | Role-based access control (RBAC) |
+  | **Impact** | Digitized institutional course administration |
+
+  <p>🔗 <b>Repository:</b> <a href="https://github.com/AlbahriDev">View Source Code</a></p>
+</details>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                              EXPERIENCE SECTION                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## 💼 Experience
+
+### **Full-Stack Software Engineer & Mobile Developer**
+*Freelance & Open Source* | *2024 - Present*
+* تطوير واجهات مستخدم تفاعلية وعالية الأداء باستخدام React و Next.js و Flutter.
+* تصميم قواعد بيانات مرنة وأنظمة خلفية باستخدام Node.js و Python و ASP.NET Core.
+* دمج أنظمة الذكاء الاصطناعي وإنترنت الأشياء مع التطبيقات البرمجية.
+
+<p>
+  <code>React</code> <code>Next.js</code> <code>Flutter</code> <code>TypeScript</code> <code>Node.js</code> <code>Docker</code>
+</p>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                             ACHIEVEMENTS SECTION                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## 🏆 Achievements & Languages
+
+<div align="center">
+
+| Recognition | Details |
+| :--- | :--- |
+| **🎓 Academic Excellence** | إتمام درجة البكالوريوس في برمجة الحاسوب من كلية المجتمع صنعاء. |
+| **🚀 Full-Stack Specialist** | بناء وتطوير أنظمة ويب وموبايل متكاملة ومتقدمة. |
+
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Arabic-Native-7C3AED?style=for-the-badge" alt="Arabic"/>
+  <img src="https://img.shields.io/badge/English-Professional-4F46E5?style=for-the-badge" alt="English"/>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                            CODING PROFILES SECTION                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## 📊 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://auth.geeksforgeeks.org" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
+<a href="https://www.hackerrank.com" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                           GITHUB ANALYTICS SECTION                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=AlbahriDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7c3aed&icon_color=4f46e5&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlbahriDev&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7c3aed&ring=7c3aed&fire=7c3aed&currStreakNum=ffffff" alt="GitHub Streak"/>
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbahriDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7c3aed&include_all_commits=true&count_private=true" alt="Top Languages"/>
+  </p>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                       CONTRIBUTION ACTIVITY SECTION                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## 📉 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlbahriDev&theme=tokyo-night&hide_border=true&area=true&color=7c3aed&line=4f46e5" alt="Activity Graph"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                         CONTRIBUTION SNAKE SECTION                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AlbahriDev/AlbahriDev/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                               CONNECT SECTION                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/alhussein-albahri" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/h.u.s.7.s" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://facebook.com/Al-Hussein.Mohammed.Al-Bahri" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://youtube.com/@Al-Hussein_Al-Bahri" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="mailto:bhrwrrhsyn@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                                FOOTER SECTION                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+  <p><i>"Writing clean code is what a good programmer does to leave the world a happier place than they found it."</i></p>
+
+  <!-- Footer Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:7c3aed&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer Wave"/>
+
+</div>
