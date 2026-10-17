@@ -1,211 +1,126 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HERO SECTION                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:312e81,75:7c3aed,100:06b6d4&height=280&section=header&text=AL-HUSSEIN%20AL-BAHRI&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=FULL-STACK%20ENGINEER%20%7C%20MOBILE%20DEVELOPER%20%7C%20SYSTEM%20BUILDER&descSize=15&descAlignY=57&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0617,35:17102f,65:312e81,100:6366f1&height=300&section=header&text=AL-HUSSEIN%20AL-BAHRI&fontSize=48&fontColor=ffffff&fontAlignY=34&desc=FULL-STACK%20ENGINEER%20%E2%80%A2%20MOBILE%20DEVELOPER%20%E2%80%A2%20SMART%20SYSTEMS&descSize=15&descAlignY=57&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Scalable+Digital+Experiences;React+%7C+Next.js+%7C+Flutter+%7C+Node.js;AI+%7C+IoT+%7C+Smart+Systems;Turning+Complex+Ideas+Into+Elegant+Products" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=760&lines=Engineering+Scalable+Digital+Products;React+%7C+Next.js+%7C+Flutter+%7C+Node.js;AI+%7C+IoT+%7C+Real-Time+Systems;From+Complex+Ideas+to+Production-Ready+Software" alt="Typing Animation"/>
 
 <br><br>
 
-<a href="https://github.com/AlbahriDev">
-<img src="https://img.shields.io/github/followers/AlbahriDev?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=7c3aed&labelColor=0f172a"/>
-</a>
-&nbsp;
-<a href="https://github.com/AlbahriDev?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-06b6d4?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=AlbahriDev&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/Computer%20Programming-Sana'a%20Community%20College-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sana'a%2C%20Yemen-Global%20Remote%20Ready-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20To-Opportunities-059669?style=for-the-badge&logo=rocket&logoColor=white"/>
 
 <br><br>
 
 <a href="https://linkedin.com/in/alhussein-albahri">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/h.u.s.7.s">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://youtube.com/@Al-Hussein_Al-Bahri">
-<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:bhrwrrhsyn@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
-
-<br>
-
----
-
-# 👨‍💻 AL-HUSSEIN AL-BAHRI
-
-<div align="center">
-
-### `Software Engineer` • `Full-Stack Developer` • `Mobile Developer`
-
-</div>
-
-> **I build software that doesn't just work — it feels right.**
-
-I'm a developer focused on building **scalable web applications, cross-platform mobile experiences, and intelligent connected systems**.
-
-My work sits at the intersection of:
-
-`Modern UI` × `Scalable Architecture` × `Real-Time Systems` × `IoT` × `AI`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   ⚡ Build fast       🧠 Think deeply       🚀 Ship better  │
-│                                                             │
-│   I turn complex technical problems into simple, useful     │
-│   and production-ready digital experiences.                 │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-<br>
-
-<div align="center">
-
-🎓 **Computer Programming** — Sana'a Community College  
-📍 **Sana'a, Yemen**  
-🌍 **Open to Remote Opportunities**
-
-</div>
-
----
-
-# ⚡ WHAT I DO
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🖥️ Web Engineering
-
-- React.js
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Modern UI/UX
-- Performance Optimization
-- Scalable Frontend Architecture
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📱 Mobile Engineering
-
-- Flutter
-- Dart
-- Cross-platform Apps
-- Responsive Interfaces
-- Real-time Applications
-- API Integration
-- Production-ready Architecture
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Backend & Systems
-
-- Node.js
-- Express
-- .NET
-- Python
-- REST APIs
-- Databases
-- Authentication & RBAC
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 Smart Systems
-
-- IoT
-- ESP32
-- Embedded Systems
-- C++
-- Real-time Monitoring
-- Automation
-- AI-powered Concepts
-
-</td>
-</tr>
-</table>
-
----
-
-# 🧠 CURRENTLY BUILDING
-
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│  🔭  Building modern React / Next.js experiences           │
-│                                                            │
-│  🧩  Designing scalable software architectures             │
-│                                                            │
-│  ☁️  Exploring Cloud & DevOps workflows                    │
-│                                                            │
-│  🧪  Improving automated testing & CI/CD                    │
-│                                                            │
-│  🤖  Exploring AI + IoT + Smart Systems                    │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
-
----
-
-# 🛠️ TECH STACK
-
-<div align="center">
-
-### `FRONTEND`
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux" />
+&nbsp;
+<a href="https://github.com/AlbahriDev">
+<img src="https://img.shields.io/badge/GITHUB-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/h.u.s.7.s">
+<img src="https://img.shields.io/badge/INSTAGRAM-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 <br><br>
 
-### `MOBILE`
+<img src="https://komarev.com/ghpvc/?username=AlbahriDev&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/AlbahriDev?style=for-the-badge&label=FOLLOWERS&color=6366F1&labelColor=0B0617"/>
+<img src="https://img.shields.io/github/stars/AlbahriDev?style=for-the-badge&label=STARS&color=8B5CF6&labelColor=0B0617"/>
+
+</div>
+
+---
+
+# `01` — ABOUT
+
+<div align="center">
+
+### SOFTWARE ENGINEER • PRODUCT BUILDER • SYSTEM THINKER
+
+</div>
+
+I am a **Full-Stack & Mobile Developer** focused on engineering reliable, scalable, and visually refined digital products.
+
+My development approach combines **modern frontend engineering, backend architecture, cross-platform mobile development, real-time systems, IoT, and intelligent software concepts** to turn complex ideas into practical production-ready solutions.
+
+I care about more than writing code. I care about **architecture, performance, maintainability, security, developer experience, and the final experience of the user**.
+
+```text
+                    ENGINEERING MINDSET
+
+       ┌──────────────┐
+       │  PROBLEM     │
+       │  DISCOVERY   │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │ ARCHITECTURE │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │ DEVELOPMENT  │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │ PERFORMANCE  │
+       │  & SECURITY  │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │   IMPACT     │
+       └──────────────┘
+```
+
+### OPEN TO
+
+`Remote Opportunities` · `Freelance Projects` · `Product Development` · `Open Source` · `Technical Collaboration`
+
+---
+
+# `02` — TECH STACK
+
+<div align="center">
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=ts,js,dart,python,cpp,cs,html,css" />
+
+<br><br>
+
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
+
+<br><br>
+
+### MOBILE
 
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 
 <br><br>
 
-### `BACKEND`
+### BACKEND & DATABASES
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,python,django,fastapi,flask" />
-
-<br><br>
-
-### `DATABASE & CLOUD`
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,vercel,netlify,render" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,django,fastapi,flask,mysql,firebase,supabase" />
 
 <br><br>
 
-### `DEVOPS & TOOLS`
+### CLOUD • DEVOPS • TOOLING
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,render,vscode,postman,linux" />
 
 <br><br>
 
-### `EMBEDDED & IOT`
+### EMBEDDED • IoT
 
 <img src="https://skillicons.dev/icons?i=cpp,arduino,raspberrypi" />
 
@@ -213,119 +128,225 @@ My work sits at the intersection of:
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# `03` — AI / ML & SMART SYSTEMS
 
 <div align="center">
 
-### 🛡️ GranadX Family — Care Pro
-
-**A multi-platform family care & smart health tracking ecosystem.**
+| DOMAIN | LEVEL | FOCUS |
+|:---:|:---:|:---|
+| 🤖 AI Integration | `Developing` | Intelligent application concepts & automation |
+| 🧠 Smart Systems | `Developing` | Software-driven intelligent workflows |
+| 🌐 IoT | `Strong` | Connected devices & real-time monitoring |
+| ⚡ Real-Time Systems | `Strong` | Live monitoring, synchronization & event handling |
+| 🔌 Embedded Systems | `Developing` | ESP32, C++ & hardware/software integration |
 
 </div>
 
-```text
-Flutter + Dart
-      │
-      ├── Cross-platform Mobile Experience
-      │
-      ├── Real-time Synchronization
-      │
-      ├── Supabase Backend
-      │
-      ├── Node.js Services
-      │
-      └── Secure Multi-user Architecture
-```
+---
 
-**Focus:** Family care • Smart monitoring • Real-time data • Security
+# `04` — FEATURED PROJECTS
+
+<details>
+<summary><strong>🛡️ GranadX Family — Care Pro</strong></summary>
 
 <br>
+
+**Multi-platform family care and smart health tracking ecosystem.**
+
+GranadX Family — Care Pro is a graduation project focused on building a connected digital environment for family care, multi-user interaction, and real-time data synchronization across platforms.
+
+| ATTRIBUTE | DETAILS |
+|:---|:---|
+| **Stack** | Flutter · Dart · Supabase · Node.js |
+| **Scale** | Multi-user · Cross-platform |
+| **Performance** | Real-time synchronization |
+| **Security** | Secure data architecture |
+| **Impact** | Streamlined remote family care & monitoring |
+| **Repository** | [AlbahriDev](https://github.com/AlbahriDev) |
+
+**Engineering Focus**
+
+- Cross-platform mobile architecture
+- Real-time synchronization
+- Backend integration
+- Multi-user workflows
+- Secure data handling
+- Production-oriented application structure
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>🌱 Smart Environmental Safety & Monitoring Sentinel</strong></summary>
+
+<br>
+
+**IoT-powered environmental monitoring and incident detection system.**
+
+An integrated hardware/software monitoring system designed around connected sensors, real-time event detection, automated logging, and embedded web capabilities.
+
+| ATTRIBUTE | DETAILS |
+|:---|:---|
+| **Stack** | C++ · ESP32 · Python · Embedded Web Server |
+| **Scale** | Hardware + Software Integrated System |
+| **Performance** | Real-time monitoring |
+| **Security** | Controlled embedded environment |
+| **Impact** | Proactive environmental hazard detection |
+| **Repository** | [AlbahriDev](https://github.com/AlbahriDev) |
+
+**Engineering Focus**
+
+- ESP32-based embedded development
+- Sensor-driven monitoring
+- Real-time event processing
+- Embedded web interfaces
+- Automated incident logging
+- Hardware/software integration
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>📚 Course Management System — CMS</strong></summary>
+
+<br>
+
+**Academic course, student, and database management platform.**
+
+A database-driven academic management application designed to organize courses, students, and institutional workflows through structured relational architecture and role-based access control.
+
+| ATTRIBUTE | DETAILS |
+|:---|:---|
+| **Stack** | C# · ASP.NET Web Forms · SQL Server |
+| **Scale** | Institutional Database Application |
+| **Performance** | Structured relational data workflows |
+| **Security** | RBAC · Access Control |
+| **Impact** | Digitized administrative workflows |
+| **Repository** | [AlbahriDev](https://github.com/AlbahriDev) |
+
+**Engineering Focus**
+
+- Relational database design
+- Role-based access control
+- Academic workflow automation
+- Structured backend logic
+- Data management
+- Enterprise-oriented application architecture
+
+</details>
+
+---
+
+# `05` — EXPERIENCE
 
 <div align="center">
 
-### 🌱 Smart Environmental Safety Sentinel
-
-**IoT-powered environmental monitoring & real-time incident detection.**
+### SOFTWARE ENGINEERING JOURNEY
 
 </div>
 
-```text
-ESP32
-  │
-  ├── Sensors
-  │
-  ├── Real-time Detection
-  │
-  ├── Embedded Web Server
-  │
-  ├── Automated Logging
-  │
-  └── Python Processing
-```
+> My professional development journey is centered around building software products, academic engineering projects, full-stack applications, mobile experiences, and connected systems.
 
-**Focus:** IoT • Embedded Systems • Automation • Environmental Safety
+### Full-Stack & Mobile Development
 
-<br>
+**Current Focus**
+
+- React.js & Next.js application development
+- Flutter cross-platform development
+- REST API integration
+- Backend architecture
+- Database-driven applications
+- Real-time application workflows
+- UI performance optimization
+- Software architecture & maintainability
+
+**Core Skills**
+
+`React` `Next.js` `TypeScript` `Flutter` `Dart` `Node.js` `Python` `SQL` `Git`
+
+---
+
+# `06` — ACHIEVEMENTS
 
 <div align="center">
 
-### 📚 Course Management System
-
-**Academic management system designed around structured data and access control.**
+| RECOGNITION | DETAILS |
+|:---:|:---|
+| 🎓 **Graduation Project** | GranadX Family — Care Pro |
+| 🛡️ **Smart Systems** | Environmental Safety & Monitoring Sentinel |
+| 💻 **Software Engineering** | Full-stack & cross-platform application development |
+| 🌐 **IoT Development** | ESP32-based connected monitoring systems |
+| 🗄️ **Database Engineering** | Relational academic management systems |
 
 </div>
 
-```text
-C# + ASP.NET
-      │
-      ├── SQL Server
-      ├── Relational Database
-      ├── RBAC
-      ├── Course Management
-      └── Student Management
-```
+---
 
-**Focus:** Enterprise Architecture • Databases • Security • Automation
+# `07` — CERTIFICATIONS
+
+<div align="center">
+
+> Certification portfolio is currently being expanded.
 
 <br>
+
+<img src="https://img.shields.io/badge/CERTIFICATIONS-EXPANDING-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
+
+</div>
+
+---
+
+# `08` — CODING PROFILES
 
 <div align="center">
 
 <a href="https://github.com/AlbahriDev">
-<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-AlbahriDev-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 📊 GITHUB PERFORMANCE
+# `09` — GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AlbahriDev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=a78bfa&icon_color=06b6d4&text_color=e2e8f0"/>
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=AlbahriDev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0617&title_color=A78BFA&icon_color=6366F1&text_color=E2E8F0&rank_icon=github"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbahriDev&layout=compact&hide_border=true&bg_color=0f172a&title_color=a78bfa&text_color=e2e8f0&langs_count=8"/>
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbahriDev&layout=compact&langs_count=8&hide_border=true&bg_color=0B0617&title_color=A78BFA&text_color=E2E8F0"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlbahriDev&hide_border=true&background=0f172a&ring=8b5cf6&fire=06b6d4&currStreakLabel=a78bfa&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlbahriDev&hide_border=true&background=0B0617&ring=8B5CF6&fire=6366F1&currStreakLabel=A78BFA&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"/>
 
 </div>
 
 ---
 
-# 📈 CONTRIBUTION ACTIVITY
+# `10` — GITHUB TROPHIES
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlbahriDev&bg_color=0f172a&color=a78bfa&line=7c3aed&point=06b6d4&area=true&hide_border=true&custom_title=Al-Hussein's%20Contribution%20Graph"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AlbahriDev&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+# `11` — CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlbahriDev&bg_color=0B0617&color=A78BFA&line=6366F1&point=06B6D4&area=true&hide_border=true&custom_title=Al-Hussein%20Al-Bahri%20%E2%80%94%20Contribution%20Activity"/>
+
+</div>
+
+---
+
+# `12` — CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -335,67 +356,81 @@ C# + ASP.NET
 
 ---
 
-# 🎯 ENGINEERING PHILOSOPHY
+# `13` — CURRENT FOCUS
+
+```yaml
+developer:
+  name: "Al-Hussein Al-Bahri"
+  role: "Full-Stack Engineer & Mobile Developer"
+
+focus:
+  learning:
+    - "Cloud Performance"
+    - "Modern DevOps"
+    - "Advanced CI/CD"
+    - "Automated Testing"
+
+  building:
+    - "React Applications"
+    - "Next.js Experiences"
+    - "Flutter Applications"
+    - "Real-Time Systems"
+
+  exploring:
+    - "AI-powered Applications"
+    - "IoT Ecosystems"
+    - "Smart Systems"
+    - "Scalable Software Architecture"
+
+  open_to:
+    - "Remote Opportunities"
+    - "Freelance Projects"
+    - "Technical Collaboration"
+    - "Innovative Products"
+```
+
+---
+
+# `14` — CONNECT
 
 <div align="center">
 
-```text
-     SIMPLE
-       ↓
-   SCALABLE
-       ↓
-   MAINTAINABLE
-       ↓
-   PRODUCTION
-       ↓
-    IMPACT
-```
+### LET'S BUILD SOMETHING EXCEPTIONAL.
 
-> **"Good software solves a problem.  
-> Great software makes the problem feel simple."**
+<br>
+
+<a href="mailto:bhrwrrhsyn@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/alhussein-albahri">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AlbahriDev">
+<img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/h.u.s.7.s">
+<img src="https://img.shields.io/badge/INSTAGRAM-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@Al-Hussein_Al-Bahri">
+<img src="https://img.shields.io/badge/YOUTUBE-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 🌐 LET'S CONNECT
-
 <div align="center">
 
-I'm always interested in:
+### `ENGINEER WITH PURPOSE. BUILD WITH PRECISION.`
 
-`Interesting Products` • `Open Source` • `Freelance Projects` • `Remote Opportunities`
-
-<br>
-
-<a href="https://linkedin.com/in/alhussein-albahri">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/h.u.s.7.s">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://facebook.com/Al-Hussein.Mohammed.Al-Bahri">
-<img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/@Al-Hussein_Al-Bahri">
-<img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="mailto:bhrwrrhsyn@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<sub>Turning complex ideas into scalable digital experiences.</sub>
 
 <br><br>
 
-### ✨ BUILD. SHIP. IMPROVE. ✨
-
-<sub>Designed & engineered by Al-Hussein Al-Bahri</sub>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:312e81&height=130&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,45:7c3aed,75:312e81,100:0b0617&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
