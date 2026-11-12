@@ -40,7 +40,7 @@ I build scalable digital products — from idea to production. React, Next.js, N
 </td>
 <td width="42%" align="center" valign="middle">
 
-<img src="./assets/profile.jpg" width="300" alt="Al-Hussein Al-Bahri"/>
+<img src="./Profile.jpg" width="300" alt="Al-Hussein Al-Bahri"/>
 
 </td>
 </tr>
@@ -99,7 +99,7 @@ I build scalable digital products — from idea to production. React, Next.js, N
 <td width="30%" align="center" valign="top">
 
 <img src="https://img.shields.io/badge/SHINOBI_ID-cc0000?style=flat-square&labelColor=0a0f24"/><br><br>
-<img src="./assets/profile.jpg" width="190" alt="ID photo"/><br><br>
+<img src="./Profile.jpg" width="190" alt="ID photo"/><br><br>
 <b>Al-Hussein Al-Bahri</b><br>
 <sub>Full-Stack · Flutter · IoT</sub><br><br>
 <img src="https://img.shields.io/badge/Rank-Chunin-cc0000?style=for-the-badge&labelColor=0a0f24"/><br>
