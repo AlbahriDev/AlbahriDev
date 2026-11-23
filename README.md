@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 👑 1. ROYAL SAPPHIRE & ELECTRIC CYAN ANIMATED HEADER BANNER 👑 -->
+<!-- 👑 1. ROYAL SAPPHIRE & ELECTRIC CYAN HEADER BANNER 👑 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0a1931,70:1e40af,100:00f2fe&height=230&section=header&text=%E2%99%9B%20AL-HUSSEIN%20AL-BAHRI%20%E2%99%9B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CHIEF%20FULL-STACK%20ARCHITECT%20%E2%80%A2%20MOBILE%20ENGINEER%20%E2%80%A2%20SMART%20SYSTEMS&descSize=14&descAlignY=62&descColor=00f2fe" width="100%" alt="Al-Hussein Al-Bahri Royal Banner"/>
 
 <br>
 
-<!-- ⚡ 2. DYNAMIC ELECTRIC CYAN TYPING (RESPONSIVE NO SCROLLBAR) ⚡ -->
+<!-- ⚡ 2. DYNAMIC ELECTRIC CYAN TYPING ENGINE ⚡ -->
 <a href="https://github.com/AlbahriDev">
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=720&lines=%E2%99%9B+Chief+Full-Stack+Architect+%26+System+Strategist;%E2%9C%A8+Flutter+Maestro+%26+Mobile+Ecosystem+Specialist;%E2%9A%A1+IoT+Automation+%26+Intelligent+Autonomous+Hardware;%F0%9F%8F%9B%EF%B8%8F+Architecting+Elite+Digital+Monuments+Worldwide;%F0%9F%91%91+Believe+It+%E2%80%94+Engineer+It+%E2%80%94+Rule+The+Future" alt="Royal Typing Header"/>
 </a>
@@ -39,10 +39,12 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 👑 HERO FRAMED CARD: BIO ON LEFT ✦ FULL PHOTO ON RIGHT 👑 -->
+<!-- 👑 CARD 1: THE ROYAL IDENTITY & BIOGRAPHY CARD 👑 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<table width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,50:00f2fe,100:1e40af&height=4&section=header" width="100%"/>
+
+<table width="100%" border="0" cellpadding="10">
 <tr>
 
 <!-- LEFT COLUMN: ABOUT, NAME & CREDENTIALS -->
@@ -91,19 +93,21 @@ Dedicated to architecting resilient, mission-critical digital products from conc
 </tr>
 </table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,50:00f2fe,100:1e40af&height=4&section=header" width="100%"/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-</div>
-
-<br>
+<br><br>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- ⚔️ THE IMPERIAL ARMORY (UNIFIED HIGH-END TECH MATRIX) ⚔️ -->
+<!-- ⚔️ CARD 2: THE IMPERIAL TECH ARMORY CARD ⚔️ -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,50:00f2fe,100:1e40af&height=4&section=header" width="100%"/>
+
+<table width="100%" border="0" cellpadding="15">
+<tr>
+<td align="center">
 
 ## ⚔️ The Imperial Tech Armory
 <sub><i>Hardened technologies and frameworks engineered for uncompromising performance and scale</i></sub>
@@ -134,18 +138,18 @@ Dedicated to architecting resilient, mission-critical digital products from conc
   <img src="https://img.shields.io/badge/HARDWARE-ESP32_%E2%80%A2_Arduino_%E2%80%A2_C%2B%2B-020617?style=for-the-badge&logo=arduino&logoColor=00F2FE&labelColor=0f172a&color=1e40af"/>
 </p>
 
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,50:00f2fe,100:1e40af&height=4&section=header" width="100%"/>
+
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-</div>
-
-<br>
+<br><br>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 💎 CROWN JEWELS (FEATURED MASTERPIECE SYSTEMS) 💎 -->
+<!-- 💎 CARD 3: CROWN JEWELS & FEATURED MASTERPIECE CARDS 💎 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -155,77 +159,132 @@ Dedicated to architecting resilient, mission-critical digital products from conc
 
 <br><br>
 
-</div>
+<!-- Project Card 1 & 2 Grid -->
+<table width="100%" border="0" cellpadding="8" cellspacing="10">
+<tr>
 
-### 🛡️ 1. GranadX Family — Care Pro
-<p align="left">
-  <img src="https://img.shields.io/badge/%E2%99%9B_HEALTH_TECH-PRODUCTION_SYSTEM-020617?style=flat-square&labelColor=1e40af&color=00f2fe"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-</p>
-Medical and family health tracking suite with real-time vitals telemetry, emergency routing, and encrypted multi-device synchronization.
+<!-- Project Card 1 -->
+<td width="50%" valign="top">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,50:00f2fe,100:1e40af&height=3&section=header" width="100%"/>
+  <table width="100%" border="0" cellpadding="12">
+  <tr>
+  <td>
+    <img src="https://img.shields.io/badge/%E2%99%9B_HEALTH_TECH-PRODUCTION-020617?style=flat-square&labelColor=1e40af&color=00f2fe"/>
+    <h3>🛡️ GranadX Family — Care Pro</h3>
+    <p style="font-size: 13.5px; line-height: 1.6;">
+      Medical and family health tracking suite with real-time vitals telemetry, emergency routing, and encrypted multi-device synchronization.
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+    </p>
+  </td>
+  </tr>
+  </table>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,50:00f2fe,100:1e40af&height=3&section=header" width="100%"/>
+</td>
 
----
+<!-- Project Card 2 -->
+<td width="50%" valign="top">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,50:00f2fe,100:1e40af&height=3&section=header" width="100%"/>
+  <table width="100%" border="0" cellpadding="12">
+  <tr>
+  <td>
+    <img src="https://img.shields.io/badge/%E2%99%9B_INTELLIGENT_IoT-HARDWARE-020617?style=flat-square&labelColor=1e40af&color=00f2fe"/>
+    <h3>🌱 Smart Environmental Sentinel</h3>
+    <p style="font-size: 13.5px; line-height: 1.6;">
+      Autonomous industrial IoT hazard monitoring station with multi-gas detection, climatic thresholds, real-time logging, and embedded micro-web server.
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    </p>
+  </td>
+  </tr>
+  </table>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,50:00f2fe,100:1e40af&height=3&section=header" width="100%"/>
+</td>
 
-### 🌱 2. Smart Environmental Sentinel
-<p align="left">
-  <img src="https://img.shields.io/badge/%E2%99%9B_INTELLIGENT_IoT-HARDWARE_SYSTEM-020617?style=flat-square&labelColor=1e40af&color=00f2fe"/>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-</p>
-Autonomous industrial IoT hazard monitoring station with multi-gas detection, climatic thresholds, real-time logging, and embedded micro-web server.
+</tr>
+<tr>
 
----
+<!-- Project Card 3 -->
+<td width="50%" valign="top">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,50:00f2fe,100:1e40af&height=3&section=header" width="100%"/>
+  <table width="100%" border="0" cellpadding="12">
+  <tr>
+  <td>
+    <img src="https://img.shields.io/badge/%E2%99%9B_FINTECH_%26_COMMERCE-OFFLINE--FIRST-020617?style=flat-square&labelColor=1e40af&color=00f2fe"/>
+    <h3>🛒 Cross-Platform E-Commerce</h3>
+    <p style="font-size: 13.5px; line-height: 1.6;">
+      Enterprise mobile storefront with offline transaction queues, two-way sync, local encrypted caching, and multi-tier catalog search.
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Realm_DB-39477F?style=flat-square&logo=realm&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+    </p>
+  </td>
+  </tr>
+  </table>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,50:00f2fe,100:1e40af&height=3&section=header" width="100%"/>
+</td>
 
-### 🛒 3. Enterprise Cross-Platform E-Commerce
-<p align="left">
-  <img src="https://img.shields.io/badge/%E2%99%9B_FINTECH_%26_COMMERCE-OFFLINE--FIRST-020617?style=flat-square&labelColor=1e40af&color=00f2fe"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Realm_DB-39477F?style=flat-square&logo=realm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-</p>
-Enterprise mobile storefront with offline transaction queues, two-way sync, local encrypted caching, and multi-tier catalog search.
+<!-- Project Card 4 -->
+<td width="50%" valign="top">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,50:00f2fe,100:1e40af&height=3&section=header" width="100%"/>
+  <table width="100%" border="0" cellpadding="12">
+  <tr>
+  <td>
+    <img src="https://img.shields.io/badge/%E2%99%9B_CIVIC_AI-ALGORITHMIC-020617?style=flat-square&labelColor=1e40af&color=00f2fe"/>
+    <h3>🚦 Smart Traffic Controller</h3>
+    <p style="font-size: 13.5px; line-height: 1.6;">
+      Adaptive municipal traffic pacing mechanism utilizing dynamic density sensing algorithms to mitigate vehicular congestion by <b>25%</b>.
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Smart_City-00F2FE?style=flat-square"/>
+    </p>
+  </td>
+  </tr>
+  </table>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,50:00f2fe,100:1e40af&height=3&section=header" width="100%"/>
+</td>
 
----
-
-### 🚦 4. Smart Traffic Controller
-<p align="left">
-  <img src="https://img.shields.io/badge/%E2%99%9B_CIVIC_AI-ALGORITHMIC_PACING-020617?style=flat-square&labelColor=1e40af&color=00f2fe"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-</p>
-Adaptive municipal traffic pacing mechanism utilizing dynamic density sensing algorithms to mitigate vehicular congestion by **25%**.
+</tr>
+</table>
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/AlbahriDev?tab=repositories">
-    <img src="https://img.shields.io/badge/%E2%99%9B_EXPLORE_ALL_ROYAL_REPOSITORIES-00F2FE?style=for-the-badge&logo=github&logoColor=020617&labelColor=1E40AF" alt="Explore All Repositories"/>
-  </a>
+<a href="https://github.com/AlbahriDev?tab=repositories">
+  <img src="https://img.shields.io/badge/%E2%99%9B_EXPLORE_ALL_ROYAL_REPOSITORIES-00F2FE?style=for-the-badge&logo=github&logoColor=020617&labelColor=1E40AF" alt="Explore All Repositories"/>
+</a>
+
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 📜 ROYAL CHRONICLES OF MEASURED IMPACT 📜 -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 📜 Royal Chronicles of Proven Impact
-<sub><i>Executive career trajectory and engineering victories across international teams</i></sub>
 
 <br><br>
 
-<div align="left" style="max-width: 880px;">
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 📜 CARD 4: ROYAL CHRONICLES OF IMPACT CARD 📜 -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,50:00f2fe,100:1e40af&height=4&section=header" width="100%"/>
+
+<table width="100%" border="0" cellpadding="15">
+<tr>
+<td>
+
+<div align="center">
+  ## 📜 Royal Chronicles of Proven Impact
+  <sub><i>Executive career trajectory and engineering victories across international teams</i></sub>
+</div>
+
+<br>
 
 > ### 👑 **N'dex Lab** &nbsp;·&nbsp; `Apr 2026 – Present`
 > **Full-Stack Software Engineer** &nbsp;·&nbsp; <sub>Algeria / Remote</sub>
@@ -248,23 +307,27 @@ Adaptive municipal traffic pacing mechanism utilizing dynamic density sensing al
 > - ✦ Engineered automated WhatsApp OTP authentication engine achieving **95% delivery rate**.
 > - ✦ Indexed and restructured relational MySQL storage schemas, diminishing latency by **25%**.
 
-</div>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,50:00f2fe,100:1e40af&height=4&section=header" width="100%"/>
 
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-</div>
-
-<br>
+<br><br>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 IMPERIAL AWARDS & RECOGNITION 🏆 -->
+<!-- 🏆 CARD 5: IMPERIAL AWARDS & RECOGNITION CARD 🏆 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,50:00f2fe,100:1e40af&height=4&section=header" width="100%"/>
+
+<table width="100%" border="0" cellpadding="15">
+<tr>
+<td align="center">
 
 ## 🏆 Imperial Trophies & Distinctions
 <sub><i>Distinctions unlocked through relentless engineering commitment and continuous shipping</i></sub>
@@ -286,24 +349,24 @@ Adaptive municipal traffic pacing mechanism utilizing dynamic density sensing al
   <img src="https://img.shields.io/badge/%E2%9C%93_HONOR-EMBEDDED_IoT_SYSTEMS-020617?style=for-the-badge&logo=arduino&logoColor=00F2FE&labelColor=1e40af&color=00f2fe"/>
 </p>
 
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,50:00f2fe,100:1e40af&height=4&section=header" width="100%"/>
+
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-</div>
-
-<br>
+<br><br>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 📊 BATTLEFIELD ANALYTICS & CODE HEALTH 📊 -->
+<!-- 📊 CARD 6: BATTLEFIELD ANALYTICS & CODE HEALTH CARDS 📊 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 📊 Imperial Telemetry & Battlefield Metrics
-<sub><i>Live algorithmic telemetry pulled directly from active code branches</i></sub>
+<sub><i>Live algorithmic telemetry with vibrant glowing electric cyan borders</i></sub>
 
 <br><br>
 
@@ -324,19 +387,19 @@ Adaptive municipal traffic pacing mechanism utilizing dynamic density sensing al
 
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-</div>
-
-<br>
+<br><br>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🐍 CONTRIBUTION SERPENT RITUAL 🐍 -->
+<!-- 🐍 CARD 7: CONTRIBUTION SERPENT CARD 🐍 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,50:00f2fe,100:1e40af&height=4&section=header" width="100%"/>
+
+<table width="100%" border="0" cellpadding="15">
+<tr>
+<td align="center">
 
 ## 🐍 The Cyan Contribution Serpent
 <sub><i>Live animated entity traversing days of commits and shipping milestones</i></sub>
@@ -348,21 +411,27 @@ Adaptive municipal traffic pacing mechanism utilizing dynamic density sensing al
   <img src="https://raw.githubusercontent.com/AlbahriDev/AlbahriDev/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake"/>
 </picture>
 
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,50:00f2fe,100:1e40af&height=4&section=header" width="100%"/>
+
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-</div>
-
-<br>
+<br><br>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 👑 INITIATE AN IMPERIAL ALLIANCE 👑 -->
+<!-- 👑 CARD 8: INITIATE AN IMPERIAL ALLIANCE 👑 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,50:00f2fe,100:1e40af&height=4&section=header" width="100%"/>
+
+<table width="100%" border="0" cellpadding="15">
+<tr>
+<td align="center">
 
 ## 👑 Initiate an Imperial Alliance
 <sub><i>Looking for high-impact software engineering, technical leadership, or advisory? Reach into the Royal Chambers.</i></sub>
@@ -391,11 +460,21 @@ Adaptive municipal traffic pacing mechanism utilizing dynamic density sensing al
   </a>
 </p>
 
-<br>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,50:00f2fe,100:1e40af&height=4&section=header" width="100%"/>
+
+</div>
+
+<br><br>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 👑 ROYAL FOOTER 👑 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,30:1e40af,70:0a1931,100:020617&height=140&section=footer" width="100%"/>
 
