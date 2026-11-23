@@ -318,7 +318,7 @@ Dedicated to architecting resilient, mission-critical digital products from conc
 <br><br>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 CARD 5: IMPERIAL AWARDS & RECOGNITION CARD 🏆 -->
+<!-- 🏆 CARD 5: IMPERIAL AWARDS & VERIFIED DISTINCTIONS CARD 🏆 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -329,16 +329,27 @@ Dedicated to architecting resilient, mission-critical digital products from conc
 <tr>
 <td align="center">
 
-## 🏆 Imperial Trophies & Distinctions
-<sub><i>Distinctions unlocked through relentless engineering commitment and continuous shipping</i></sub>
+## 🏆 Imperial Achievements & Verified Honors
+<sub><i>Excellence unlocked through rigorous system architecture and continuous shipping</i></sub>
 
 <br><br>
 
-<a href="https://github.com/AlbahriDev">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlbahriDev&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Imperial Trophies"/>
-</a>
+<!-- Dynamic Achievement Shields Matrix -->
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8F%86_GRANDMASTER-FULL--STACK_ARCHITECT-020617?style=for-the-badge&logo=crown&logoColor=00F2FE&labelColor=1e40af&color=00f2fe"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/%E2%9A%A1_SYSTEMS-HIGH_CONCURRENCY_APIs-020617?style=for-the-badge&logo=fastapi&logoColor=00F2FE&labelColor=1e40af&color=00f2fe"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/%F0%9F%93%B1_MOBILE-FLUTTER_ECOSYSTEM_PRO-020617?style=for-the-badge&logo=flutter&logoColor=00F2FE&labelColor=1e40af&color=00f2fe"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_SECURITY-ZERO--TRUST_AUTH-020617?style=for-the-badge&logo=auth0&logoColor=00F2FE&labelColor=1e40af&color=00f2fe"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90_IOT-SMART_HARDWARE_INTELLIGENCE-020617?style=for-the-badge&logo=arduino&logoColor=00F2FE&labelColor=1e40af&color=00f2fe"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80_IMPACT-1%2C000%2B_ACTIVE_ENTERPRISE_USERS-020617?style=for-the-badge&logo=rocket&logoColor=00F2FE&labelColor=1e40af&color=00f2fe"/>
+</p>
 
-<br><br>
+<br>
 
 <!-- Verified Honor Badges -->
 <p align="center">
