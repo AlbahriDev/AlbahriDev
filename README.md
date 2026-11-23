@@ -4,7 +4,7 @@
 <!-- 👑 1. ROYAL SAPPHIRE & ELECTRIC CYAN ANIMATED HEADER BANNER 👑 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0a1931,70:1e40af,100:00f2fe&height=260&section=header&text=%E2%99%9B%20AL-HUSSEIN%20AL-BAHRI%20%E2%99%9B&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CHIEF%20FULL-STACK%20ARCHITECT%20%E2%80%A2%20MOBILE%20ENGINEER%20%E2%80%A2%20SMART%20SYSTEMS&descSize=15&descAlignY=62&descColor=00f2fe" width="100%" alt="Al-Hussein Al-Bahri Royal Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0a1931,70:1e40af,100:00f2fe&height=250&section=header&text=%E2%99%9B%20AL-HUSSEIN%20AL-BAHRI%20%E2%99%9B&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CHIEF%20FULL-STACK%20ARCHITECT%20%E2%80%A2%20MOBILE%20ENGINEER%20%E2%80%A2%20SMART%20SYSTEMS&descSize=15&descAlignY=62&descColor=00f2fe" width="100%" alt="Al-Hussein Al-Bahri Royal Banner"/>
 
 <br>
 
@@ -34,33 +34,29 @@
   </a>
 </p>
 
-<!-- Glowing Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 🖼️ THE ROYAL FRAMED MASTER CARD (PAGE CONTAINER WITH BORDERS) 🖼️ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<table width="100%">
+<tr>
+<td>
 
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 👑 HERO MONOGRAM / ABOUT THE ARCHITECT 👑 -->
+<!-- 👑 HERO SECTION: BIO ON LEFT ✦ PHOTO ON RIGHT 👑 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
 
 <table border="0" width="100%">
 <tr>
-<td width="32%" align="center" valign="middle">
-  <img src="https://img.shields.io/badge/%E2%99%9B_SOVEREIGN_ARCHITECT-00F2FE?style=for-the-badge&labelColor=020617&color=1E40AF&logo=crown&logoColor=00F2FE"/>
-  <br><br>
-  <img src="Profile.jpg" width="170" height="170" style="border-radius: 50%;" alt="Al-Hussein Al-Bahri"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/AL--HUSSEIN_AL--BAHRI-020617?style=flat-square&labelColor=1e40af&color=00f2fe"/>
-</td>
-<td width="68%" valign="middle">
 
-<div align="left">
-  <img src="https://img.shields.io/badge/%E2%99%9B_ROYAL_IMPRIMATUR-CHIEF_ARCHITECT-020617?style=flat-square&labelColor=1e40af&color=00f2fe"/>
-</div>
+<!-- LEFT COLUMN: ABOUT & CREDENTIALS -->
+<td width="66%" valign="middle" align="left">
+
+<img src="https://img.shields.io/badge/%E2%99%9B_ROYAL_IMPRIMATUR-CHIEF_ARCHITECT-020617?style=flat-square&labelColor=1e40af&color=00f2fe"/>
 
 ### 👑 *Greetings & Royal Welcome*
 # **AL-HUSSEIN AL-BAHRI**
@@ -80,17 +76,28 @@ Dedicated to architecting resilient, mission-critical digital products from conc
   <img src="https://img.shields.io/badge/%E2%97%88_EXPERIENCE-3%2B_YEARS_LEADERSHIP-020617?style=flat-square&labelColor=1e40af&color=00f2fe"/>
   &nbsp;
   <img src="https://img.shields.io/badge/%E2%97%88_DEPLOYED_SYSTEMS-8%2B_CROWN_PROJECTS-020617?style=flat-square&labelColor=1e40af&color=00f2fe"/>
-  &nbsp;
+  <br>
   <img src="https://img.shields.io/badge/%E2%97%88_IMPACT-1%2C000%2B_ACTIVE_USERS-020617?style=flat-square&labelColor=1e40af&color=00f2fe"/>
   &nbsp;
   <img src="https://img.shields.io/badge/%E2%97%88_UPTIME-99.9%25_RELIABILITY-020617?style=flat-square&labelColor=1e40af&color=00f2fe"/>
 </p>
 
 </td>
+
+<!-- RIGHT COLUMN: PROFILE IMAGE & SOVEREIGN BADGES -->
+<td width="34%" align="center" valign="middle">
+
+  <img src="https://img.shields.io/badge/%E2%99%9B_SOVEREIGN_ARCHITECT-00F2FE?style=for-the-badge&labelColor=020617&color=1E40AF&logo=crown&logoColor=00F2FE"/>
+  <br><br>
+  <img src="Profile.jpg" width="185" height="185" style="border-radius: 50%;" alt="Al-Hussein Al-Bahri"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/AL--HUSSEIN_AL--BAHRI-020617?style=flat-square&labelColor=1e40af&color=00f2fe"/><br>
+  <img src="https://img.shields.io/badge/RANK-GRANDMASTER_ENGINEER-020617?style=flat-square&labelColor=0f172a&color=00f2fe"/>
+
+</td>
+
 </tr>
 </table>
-
-</div>
 
 <br>
 
@@ -405,4 +412,6 @@ Adaptive municipal traffic pacing mechanism utilizing dynamic density sensing al
   <sub>⚡ <i>"I am the architect who builds."</i> ⚡</sub>
 </p>
 
-</div>
+</td>
+</tr>
+</table>
