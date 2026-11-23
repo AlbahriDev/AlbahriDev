@@ -1,14 +1,12 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 👑 1. ROYAL SAPPHIRE & ELECTRIC CYAN ANIMATED VECTOR BANNER 👑 -->
+<!-- 👑 1. ROYAL SAPPHIRE & ELECTRIC CYAN ANIMATED HEADER BANNER 👑 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/AlbahriDev">
-  <img src="./assets/royal-banner.svg" width="100%" alt="Al-Hussein Al-Bahri Royal Sapphire Banner"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0a1931,70:1e40af,100:00f2fe&height=260&section=header&text=%E2%99%9B%20AL-HUSSEIN%20AL-BAHRI%20%E2%99%9B&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CHIEF%20FULL-STACK%20ARCHITECT%20%E2%80%A2%20MOBILE%20ENGINEER%20%E2%80%A2%20SMART%20SYSTEMS&descSize=15&descAlignY=62&descColor=00f2fe" width="100%" alt="Al-Hussein Al-Bahri Royal Banner"/>
 
-<br><br>
+<br>
 
 <!-- ⚡ 2. DYNAMIC ELECTRIC CYAN TYPING ENGINE ⚡ -->
 <a href="https://github.com/AlbahriDev">
@@ -36,8 +34,8 @@
   </a>
 </p>
 
-<!-- Animated Royal Divider -->
-<img src="./assets/royal-divider.svg" width="100%" alt="Divider"/>
+<!-- Glowing Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
 
 </div>
 
@@ -51,14 +49,14 @@
 
 <table border="0" width="100%">
 <tr>
-<td width="30%" align="center" valign="middle">
-  <a href="https://github.com/AlbahriDev">
-    <img src="./assets/royal-seal.svg" width="200" alt="Royal Sovereign Seal"/>
-  </a>
+<td width="32%" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/%E2%99%9B_SOVEREIGN_ARCHITECT-00F2FE?style=for-the-badge&labelColor=020617&color=1E40AF&logo=crown&logoColor=00F2FE"/>
   <br><br>
-  <img src="Profile.jpg" onerror="this.src='.github/Profile.jpg'; this.onerror=function(){this.src='https://github.com/AlbahriDev.png'}" width="145" height="145" style="border-radius: 50%;" alt="Al-Hussein Al-Bahri"/>
+  <img src="Profile.jpg" width="170" height="170" style="border-radius: 50%;" alt="Al-Hussein Al-Bahri"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/AL--HUSSEIN_AL--BAHRI-020617?style=flat-square&labelColor=1e40af&color=00f2fe"/>
 </td>
-<td width="70%" valign="middle">
+<td width="68%" valign="middle">
 
 <div align="left">
   <img src="https://img.shields.io/badge/%E2%99%9B_ROYAL_IMPRIMATUR-CHIEF_ARCHITECT-020617?style=flat-square&labelColor=1e40af&color=00f2fe"/>
@@ -97,7 +95,7 @@ Dedicated to architecting resilient, mission-critical digital products from conc
 <br>
 
 <div align="center">
-  <img src="./assets/royal-divider.svg" width="100%" alt="Divider"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
 </div>
 
 <br>
@@ -142,7 +140,7 @@ Dedicated to architecting resilient, mission-critical digital products from conc
 <br>
 
 <div align="center">
-  <img src="./assets/royal-divider.svg" width="100%" alt="Divider"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
 </div>
 
 <br>
@@ -212,7 +210,7 @@ Adaptive municipal traffic pacing mechanism utilizing dynamic density sensing al
 <br>
 
 <div align="center">
-  <img src="./assets/royal-divider.svg" width="100%" alt="Divider"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
 </div>
 
 <br>
@@ -258,7 +256,7 @@ Adaptive municipal traffic pacing mechanism utilizing dynamic density sensing al
 <br>
 
 <div align="center">
-  <img src="./assets/royal-divider.svg" width="100%" alt="Divider"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
 </div>
 
 <br>
@@ -294,7 +292,7 @@ Adaptive municipal traffic pacing mechanism utilizing dynamic density sensing al
 <br>
 
 <div align="center">
-  <img src="./assets/royal-divider.svg" width="100%" alt="Divider"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
 </div>
 
 <br>
@@ -330,7 +328,7 @@ Adaptive municipal traffic pacing mechanism utilizing dynamic density sensing al
 <br>
 
 <div align="center">
-  <img src="./assets/royal-divider.svg" width="100%" alt="Divider"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
 </div>
 
 <br>
@@ -356,7 +354,7 @@ Adaptive municipal traffic pacing mechanism utilizing dynamic density sensing al
 <br>
 
 <div align="center">
-  <img src="./assets/royal-divider.svg" width="100%" alt="Divider"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
 </div>
 
 <br>
