@@ -1,111 +1,111 @@
-<!--
-═══════════════════════════════════════════════════════════════════════════
-       👑 THE ROYAL CODEX — AL-HUSSEIN AL-BAHRI (ALBAHRIDEV) 👑
-   Full-Stack Architect · Mobile Specialist · Intelligent Systems Builder
-═══════════════════════════════════════════════════════════════════════════
--->
-
 <div align="center">
 
-<!-- Royal Crown & Dynamic Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,35:111827,70:271e05,100:d4af37&height=240&section=header&text=%E2%99%9B%20AL-HUSSEIN%20AL-BAHRI%20%E2%99%9B&fontSize=44&fontColor=fef08a&animation=twinkling&fontAlignY=38&desc=CHIEF%20FULL-STACK%20ARCHITECT%20%C2%B7%20MOBILE%20ENGINEER%20%C2%B7%20AI%20%26%20IoT%20SYSTEMS&descSize=15&descAlignY=62&descColor=fcd34d" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 👑 1. ROYAL IMPERIAL ANIMATED BANNER (CUSTOM VECTOR ENGINE) 👑 -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- Luxury Animated Typing Text -->
-<a href="#-about-the-architect">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&duration=3000&pause=1000&color=EAB308&center=true&vCenter=true&width=850&lines=%E2%99%9B+Full-Stack+Architect+%26+System+Strategist;%E2%9C%A8+Mastering+React%2C+Flutter%2C+.NET+%26+Cloud+Pipelines;%E2%9A%A1+IoT+%26+Intelligent+Autonomous+Infrastructure;%F0%9F%8F%9B%EF%B8%8F+Architecting+Elite+Digital+Empires+Worldwide;%F0%9F%91%91+Believe+It+%E2%80%94+Engineer+It+%E2%80%94+Rule+The+Future" alt="Royal Typing Title"/>
+<a href="https://github.com/AlbahriDev">
+  <img src="./assets/royal-banner.svg" width="100%" alt="Al-Hussein Al-Bahri Royal Banner"/>
 </a>
 
 <br><br>
 
-<!-- Royal Quick Status & Metrics Bar -->
+<!-- ⚡ 2. DYNAMIC ANIMATED TYPING ENGINE ⚡ -->
+<a href="https://github.com/AlbahriDev">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&duration=2800&pause=1100&color=F59E0B&center=true&vCenter=true&width=860&lines=%E2%99%9B+Chief+Full-Stack+Architect+%26+System+Strategist;%E2%9C%A8+Flutter+Maestro+%26+Mobile+Ecosystem+Specialist;%E2%9A%A1+IoT+Automation+%26+Intelligent+Autonomous+Hardware;%F0%9F%8F%9B%EF%B8%8F+Architecting+Elite+Digital+Monuments+Worldwide;%F0%9F%91%91+Believe+It+%E2%80%94+Engineer+It+%E2%80%94+Rule+The+Future" alt="Royal Typing Header"/>
+</a>
+
+<br><br>
+
+<!-- ⚜️ 3. SOVEREIGN STATUS METRICS BAR ⚜️ -->
 <p align="center">
   <a href="https://github.com/AlbahriDev">
-    <img src="https://img.shields.io/badge/STATUS-OPEN_FOR_ELITE_MISSIONS-030712?style=for-the-badge&logo=target&logoColor=F59E0B&labelColor=1f1b04&color=d4af37" alt="Royal Status"/>
+    <img src="https://img.shields.io/badge/SOVEREIGN_STATUS-OPEN_FOR_ELITE_MISSIONS-030712?style=for-the-badge&logo=crown&logoColor=F59E0B&labelColor=1a1500&color=d4af37"/>
   </a>
+  &nbsp;
   <a href="https://github.com/AlbahriDev?tab=followers">
-    <img src="https://img.shields.io/github/followers/AlbahriDev?label=ROYAL%20ALLIES&style=for-the-badge&color=d4af37&labelColor=030712&logo=github&logoColor=F59E0B" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/AlbahriDev?label=IMPERIAL_ALLIES&style=for-the-badge&color=d4af37&labelColor=030712&logo=github&logoColor=F59E0B"/>
   </a>
-  <a href="https://komarev.com/ghpvc/?username=AlbahriDev&color=d4af37&style=for-the-badge&label=AUDIENCE+VISITS&labelColor=030712">
-    <img src="https://komarev.com/ghpvc/?username=AlbahriDev&color=d4af37&style=for-the-badge&label=PORTFOLIO+VISITS&labelColor=030712" alt="Visits"/>
+  &nbsp;
+  <a href="https://komarev.com/ghpvc/?username=AlbahriDev&color=d4af37&style=for-the-badge&label=ROYAL_VISITORS&labelColor=030712">
+    <img src="https://komarev.com/ghpvc/?username=AlbahriDev&color=d4af37&style=for-the-badge&label=ROYAL_VISITORS&labelColor=030712"/>
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/alhussein-albahri">
-    <img src="https://img.shields.io/badge/LOCATION-GLOBAL_REMOTE-030712?style=for-the-badge&logo=googlemaps&logoColor=F59E0B&labelColor=1f1b04" alt="Location"/>
+    <img src="https://img.shields.io/badge/HEADQUARTERS-GLOBAL_REMOTE-030712?style=for-the-badge&logo=googlemaps&logoColor=F59E0B&labelColor=1a1500"/>
   </a>
 </p>
 
+<!-- Animated Gold Divider -->
+<img src="./assets/gold-divider.svg" width="100%" alt="Divider"/>
+
 </div>
 
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 👑 HERO SECTION & MONOGRAM 👑 -->
+<!-- 👑 HERO PROFILE & MONOGRAM CARD 👑 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-</div>
-
-<br>
 
 <table border="0" align="center" width="100%">
 <tr>
-<td width="60%" valign="middle">
+<td width="62%" valign="middle">
 
-### 👑 *Greetings & Salutations*
+<div align="left">
+  <img src="https://img.shields.io/badge/%E2%99%9B_ROYAL_IMPRIMATUR-CHIEF_ARCHITECT-1a1500?style=flat-square&labelColor=030712&color=d4af37"/>
+</div>
+
+### 👑 *Greetings & Royal Welcome*
 # <span style="color:#F59E0B">Al-Hussein Al-Bahri</span>
-#### *The Architect Behind Scalable Real-Time Software & Intelligent Hardware*
+#### *The Architect Behind Resilient Full-Stack Systems & Intelligent Hardware*
 
 <p align="justify">
-A distinguished <b>Full-Stack Engineer</b> & <b>Mobile Solutions Architect</b> specializing in building resilient, high-throughput digital systems from conceptual foundation to battle-tested production. Seamlessly orchestrating <b>React, Next.js, Flutter, Node.js, and ASP.NET Core</b> with hardened cloud databases, microservices, and connected IoT ecosystems.
+A seasoned <b>Full-Stack Solutions Architect</b> and <b>Mobile Systems Specialist</b> with a relentless dedication to building mission-critical digital empires. Engineering robust distributed backends in <b>Node.js, Express, and ASP.NET Core</b>, fluid cross-platform experiences in <b>Flutter, React, and Next.js</b>, alongside cutting-edge <b>IoT & embedded robotics</b>.
 </p>
 
 > <div dir="rtl" align="right">
-> <b>« نبني الإمبراطوريات البرمجية من الفكرة إلى الإنتاج بأعلى معايير الإتقان والفخامة »</b><br>
-> مهندس برمجيات متكامل وخبير تطبيقات الموبايل والأنظمة الذكية، متخصص في تصميم وتطوير بنى تحتية فائقة الأداء وتجارب مستخدم استثنائية.
+> <b>« نبني المنظومات البرمجية الكبرى من الفكرة حتى السيادة والإنتاج بأعلى معايير الإتقان والفخامة »</b><br>
+> <sub>مهندس برمجيات متكامل وخبير تطبيقات الموبايل والأنظمة الذكية المدمجة، متخصص في تحويل الرؤى المعقدة إلى منتجات رقمية فائقة السرعة والأمان.</sub>
 > </div>
 
 <br>
 
-<!-- Key Quantitative Pillars -->
-<table>
+<!-- Sovereign Statistics Pillars -->
+<table width="100%">
   <tr>
     <td align="center" width="25%">
-      <font size="4" color="#F59E0B"><b>3+</b></font><br>
+      <font size="5" color="#F59E0B"><b>3+</b></font><br>
       <sub><b>Core Disciplines</b></sub><br>
-      <sub>Web · Mobile · IoT</sub>
+      <small>Web · Mobile · IoT</small>
     </td>
     <td align="center" width="25%">
-      <font size="4" color="#F59E0B"><b>8+</b></font><br>
+      <font size="5" color="#F59E0B"><b>8+</b></font><br>
       <sub><b>Crown Projects</b></sub><br>
-      <sub>Production Deployed</sub>
+      <small>Production Deployed</small>
     </td>
     <td align="center" width="25%">
-      <font size="4" color="#F59E0B"><b>15+</b></font><br>
+      <font size="5" color="#F59E0B"><b>15+</b></font><br>
       <sub><b>Technologies</b></sub><br>
-      <sub>Mastered & Hardened</sub>
+      <small>Hardened Mastery</small>
     </td>
     <td align="center" width="25%">
-      <font size="4" color="#F59E0B"><b>1,000+</b></font><br>
-      <sub><b>Active Users</b></sub><br>
-      <sub>Served with 99.9% Up</sub>
+      <font size="5" color="#F59E0B"><b>1,000+</b></font><br>
+      <sub><b>Users Served</b></sub><br>
+      <small>99.9% Uptime</small>
     </td>
   </tr>
 </table>
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="38%" align="center" valign="middle">
 
-<!-- Royal Portrait with Gilded Framing -->
+<!-- Royal Seal & Avatar Showcase -->
 <div align="center">
-  <a href="https://github.com/AlbahriDev">
-    <img src="https://github.com/AlbahriDev.png" onerror="this.src='./Profile.jpg'" width="260" style="border-radius:50%; border: 4px solid #D4AF37; box-shadow: 0px 0px 25px rgba(212, 175, 55, 0.4);" alt="Al-Hussein Al-Bahri"/>
-  </a>
+  <img src="./assets/royal-seal.svg" width="220" alt="Royal Sovereign Seal"/>
   <br><br>
-  <img src="https://img.shields.io/badge/%E2%99%9B_ROYAL_CREDENTIALS-D4AF37?style=flat-square&labelColor=030712&color=F59E0B"/><br>
-  <b>AL-HUSSEIN AL-BAHRI</b><br>
-  <sub>⚡ Lead Engineer · AlbahriDev</sub><br>
-  <img src="https://img.shields.io/badge/Rank-Grandmaster_Builder-d4af37?style=for-the-badge&labelColor=030712&logo=crown&logoColor=F59E0B"/>
+  <img src="https://img.shields.io/badge/%E2%99%9B_AL--HUSSEIN_AL--BAHRI-D4AF37?style=flat-square&labelColor=030712&color=F59E0B"/><br>
+  <img src="https://img.shields.io/badge/RANK-GRANDMASTER_ENGINEER-030712?style=for-the-badge&logo=crown&logoColor=F59E0B&labelColor=1a1500&color=d4af37"/>
 </div>
 
 </td>
@@ -114,25 +114,33 @@ A distinguished <b>Full-Stack Engineer</b> & <b>Mobile Solutions Architect</b> s
 
 <br>
 
+<div align="center">
+  <img src="./assets/gold-divider.svg" width="100%" alt="Divider"/>
+</div>
+
+<br>
+
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- ⚔️ THE ROYAL ARMORY (TECH STACK) ⚔️ -->
+<!-- ⚔️ THE ROYAL ARMORY & ARSENAL (TECH SUITE) ⚔️ -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-  <h2>⚔️ The Royal Armory & Arsenal</h2>
-  <sub><i>Curated weapons of precision engineered for speed, resilience, and scale</i></sub>
+  <h2>⚔️ The Sovereign Tech Armory</h2>
+  <sub><i>Battle-tested frameworks, languages, and distributed infrastructure</i></sub>
   <br><br>
 
-<table align="center" width="95%">
+<table align="center" width="98%">
 <tr>
-  <th width="20%" align="center">🏛️ Domain</th>
-  <th width="80%" align="center">⚡ Mastered Technologies & Frameworks</th>
+  <th width="22%" align="center">🏛️ DOMAIN</th>
+  <th width="78%" align="center">⚡ ARSENAL & TECHNOLOGIES</th>
 </tr>
 
-<!-- Frontend & Mobile Suite -->
+<!-- Frontend & Mobile -->
 <tr>
-  <td align="center"><b>Royal Frontends & Mobile</b></td>
+  <td align="center">
+    <b>👑 Mobile & Web Frontends</b><br>
+    <sub><i>Fluid High-Performance UI</i></sub>
+  </td>
   <td>
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=030712"/>
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=030712"/>
@@ -145,9 +153,12 @@ A distinguished <b>Full-Stack Engineer</b> & <b>Mobile Solutions Architect</b> s
   </td>
 </tr>
 
-<!-- Backend & Distributed Systems -->
+<!-- Backend Engines & APIs -->
 <tr>
-  <td align="center"><b>Backend Engines & APIs</b></td>
+  <td align="center">
+    <b>🏛️ Backends & Distributed APIs</b><br>
+    <sub><i>Secure & Scalable Cores</i></sub>
+  </td>
   <td>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=030712"/>
     <img src="https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=black&labelColor=030712"/>
@@ -156,13 +167,16 @@ A distinguished <b>Full-Stack Engineer</b> & <b>Mobile Solutions Architect</b> s
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=030712"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=030712"/>
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=030712"/>
-    <img src="https://img.shields.io/badge/REST_APIs-D4AF37?style=for-the-badge&logo=postman&logoColor=black&labelColor=030712"/>
+    <img src="https://img.shields.io/badge/RESTful_APIs-D4AF37?style=for-the-badge&logo=postman&logoColor=black&labelColor=030712"/>
   </td>
 </tr>
 
 <!-- Databases & Cloud Vaults -->
 <tr>
-  <td align="center"><b>Data Vaults & Cloud</b></td>
+  <td align="center">
+    <b>💎 Data Vaults & Cloud</b><br>
+    <sub><i>Resilient Storage & Sync</i></sub>
+  </td>
   <td>
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=030712"/>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=030712"/>
@@ -175,22 +189,28 @@ A distinguished <b>Full-Stack Engineer</b> & <b>Mobile Solutions Architect</b> s
   </td>
 </tr>
 
-<!-- Embedded & Smart Systems -->
+<!-- IoT & Embedded Hardware -->
 <tr>
-  <td align="center"><b>Hardware & Intelligence</b></td>
+  <td align="center">
+    <b>⚡ IoT & Intelligent Hardware</b><br>
+    <sub><i>Connected Microelectronics</i></sub>
+  </td>
   <td>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=030712"/>
     <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&labelColor=030712"/>
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=030712"/>
     <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=030712"/>
-    <img src="https://img.shields.io/badge/IoT_Architecture-D4AF37?style=for-the-badge&logo=sensortower&logoColor=black&labelColor=030712"/>
+    <img src="https://img.shields.io/badge/IoT_Automation-D4AF37?style=for-the-badge&logo=sensortower&logoColor=black&labelColor=030712"/>
     <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=030712"/>
   </td>
 </tr>
 
-<!-- Workflow & Tooling -->
+<!-- Tooling & DevOps -->
 <tr>
-  <td align="center"><b>Foundry & DevOps</b></td>
+  <td align="center">
+    <b>🛠️ DevOps & Foundry</b><br>
+    <sub><i>Deployment & CI/CD</i></sub>
+  </td>
   <td>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=030712"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=030712"/>
@@ -205,21 +225,26 @@ A distinguished <b>Full-Stack Engineer</b> & <b>Mobile Solutions Architect</b> s
 
 <br>
 
+<div align="center">
+  <img src="./assets/gold-divider.svg" width="100%" alt="Divider"/>
+</div>
+
+<br>
+
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 📜 ROYAL CHRONICLES (PROFESSIONAL JOURNEY) 📜 -->
+<!-- 📜 ROYAL CHRONICLES OF MEASURED IMPACT 📜 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
   <h2>📜 Royal Chronicles of Proven Impact</h2>
-  <sub><i>Transforming complex organizational challenges into sleek, high-yield digital platforms</i></sub>
+  <sub><i>Quantified organizational achievements and high-yield delivery</i></sub>
   <br><br>
 
-<table align="center" width="95%">
+<table align="center" width="98%">
 <thead>
-  <tr style="background-color:#111827;">
+  <tr style="background-color:#0d1117;">
     <th width="24%" align="center">⏳ TIMELINE</th>
-    <th width="36%" align="center">🏛️ IMPERIAL APPOINTMENT</th>
+    <th width="36%" align="center">🏛️ SOVEREIGN POST</th>
     <th width="40%" align="center">🏆 QUANTIFIABLE VICTORIES</th>
   </tr>
 </thead>
@@ -227,39 +252,39 @@ A distinguished <b>Full-Stack Engineer</b> & <b>Mobile Solutions Architect</b> s
 <tr>
   <td align="center">
     <img src="https://img.shields.io/badge/Apr_2026_–_Present-D4AF37?style=flat-square&labelColor=030712"/><br>
-    <sub><i>Current Command</i></sub>
+    <sub><b>Current Command</b></sub>
   </td>
   <td>
     <b>Full-Stack Engineer</b><br>
     <a href="#"><b>N'dex Lab</b></a> · <sub>Algeria / Remote</sub>
   </td>
   <td align="left">
-    ✦ Architected modern React infrastructure yielding <b>+20% faster load metrics</b>.<br>
-    ✦ Powered enterprise digital ID card engine supporting <b>1,000+ active users</b>.<br>
-    ✦ Implemented hardened JWT RBAC reducing unauthorized intrusions by <b>35%</b>.
+    ✦ Architected React web infrastructure yielding <b>+20% faster page loads</b>.<br>
+    ✦ Powered enterprise digital ID card engine serving <b>1,000+ active users</b>.<br>
+    ✦ Fortified JWT RBAC authorization reducing unauthorized access attempts by <b>35%</b>.
   </td>
 </tr>
 
 <tr>
   <td align="center">
     <img src="https://img.shields.io/badge/Sep_2025_–_Mar_2026-64748B?style=flat-square&labelColor=030712"/><br>
-    <sub><i>Completed Mission</i></sub>
+    <sub><b>Completed Mission</b></sub>
   </td>
   <td>
     <b>React & Software Engineer</b><br>
     <a href="#"><b>Tico Arab Company</b></a> · <sub>Morocco / Remote</sub>
   </td>
   <td align="left">
-    ✦ Engineered high-conversion Corporate Portal accelerating onboarding by <b>40%</b>.<br>
+    ✦ Engineered high-conversion Corporate Portal accelerating employee onboarding by <b>40%</b>.<br>
     ✦ Formulated robust Node.js REST services resolving over <b>50+ critical pipeline defects</b>.<br>
-    ✦ Streamlined cross-department data workflows with zero downtime.
+    ✦ Automated cross-department communication pipelines with zero downtime.
   </td>
 </tr>
 
 <tr>
   <td align="center">
     <img src="https://img.shields.io/badge/Jan_2025_–_Aug_2025-64748B?style=flat-square&labelColor=030712"/><br>
-    <sub><i>Completed Mission</i></sub>
+    <sub><b>Completed Mission</b></sub>
   </td>
   <td>
     <b>Software Developer</b><br>
@@ -267,7 +292,7 @@ A distinguished <b>Full-Stack Engineer</b> & <b>Mobile Solutions Architect</b> s
   </td>
   <td align="left">
     ✦ Engineered automated WhatsApp OTP authentication engine achieving <b>95% delivery rate</b>.<br>
-    ✦ Fine-tuned relational MySQL storage schemas diminishing response latency by <b>25%</b>.
+    ✦ Indexed and optimized relational MySQL storage schemas diminishing response latency by <b>25%</b>.
   </td>
 </tr>
 </tbody>
@@ -277,17 +302,22 @@ A distinguished <b>Full-Stack Engineer</b> & <b>Mobile Solutions Architect</b> s
 
 <br>
 
+<div align="center">
+  <img src="./assets/gold-divider.svg" width="100%" alt="Divider"/>
+</div>
+
+<br>
+
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 💎 CROWN JEWELS (FEATURED MASTERPIECES) 💎 -->
+<!-- 💎 CROWN JEWELS (THE MASTERPIECE PROJECT GALLERY) 💎 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-  <h2>💎 Crown Jewels & Masterpiece Creations</h2>
-  <sub><i>A handpicked gallery of deployed systems, cross-platform apps, and smart devices</i></sub>
+  <h2>💎 Crown Jewels & Masterpiece Systems</h2>
+  <sub><i>A handpicked gallery of deployed production software, mobile apps, and smart devices</i></sub>
   <br><br>
 
-<table width="98%" align="center">
+<table width="100%" align="center">
 <tr>
 
 <!-- Project 1 -->
@@ -438,12 +468,17 @@ A distinguished <b>Full-Stack Engineer</b> & <b>Mobile Solutions Architect</b> s
 
 <br>
 
+<div align="center">
+  <img src="./assets/gold-divider.svg" width="100%" alt="Divider"/>
+</div>
+
+<br>
+
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 🏆 IMPERIAL AWARDS & RECOGNITION 🏆 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
   <h2>🏆 Imperial Trophies & Distinctions</h2>
   <sub><i>Honors unlocked through consistent engineering excellence and continuous commits</i></sub>
   <br><br>
@@ -479,12 +514,17 @@ A distinguished <b>Full-Stack Engineer</b> & <b>Mobile Solutions Architect</b> s
 
 <br>
 
+<div align="center">
+  <img src="./assets/gold-divider.svg" width="100%" alt="Divider"/>
+</div>
+
+<br>
+
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 📊 BATTLEFIELD ANALYTICS & CODE HEALTH 📊 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
   <h2>📊 Imperial Telemetry & Battlefield Metrics</h2>
   <sub><i>Live algorithmic telemetry pulled directly from active code branches</i></sub>
   <br><br>
@@ -515,12 +555,17 @@ A distinguished <b>Full-Stack Engineer</b> & <b>Mobile Solutions Architect</b> s
 
 <br>
 
+<div align="center">
+  <img src="./assets/gold-divider.svg" width="100%" alt="Divider"/>
+</div>
+
+<br>
+
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 🐍 CONTRIBUTION SERPENT RITUAL 🐍 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
   <h2>🐍 The Golden Contribution Serpent</h2>
   <sub><i>A live animated entity navigating through days of commits and milestones</i></sub>
   <br><br>
@@ -534,12 +579,17 @@ A distinguished <b>Full-Stack Engineer</b> & <b>Mobile Solutions Architect</b> s
 
 <br>
 
+<div align="center">
+  <img src="./assets/gold-divider.svg" width="100%" alt="Divider"/>
+</div>
+
+<br>
+
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 👑 PHILOSOPHY & CREED 👑 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
 
   <table width="85%" align="center">
   <tr>
@@ -558,14 +608,19 @@ A distinguished <b>Full-Stack Engineer</b> & <b>Mobile Solutions Architect</b> s
 
 <br>
 
+<div align="center">
+  <img src="./assets/gold-divider.svg" width="100%" alt="Divider"/>
+</div>
+
+<br>
+
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 👑 ROYAL CHAMBERS / INITIATE ALLIANCE 👑 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
   <h2>👑 Initiate an Imperial Alliance</h2>
-  <sub><i>Seeking high-impact collaboration, executive advisory, or technical leadership? Reach into the Royal Chambers.</i></sub>
+  <sub><i>Seeking high-impact collaboration, technical leadership, or advisory? Reach into the Royal Chambers.</i></sub>
   <br><br>
 
   <p align="center">
